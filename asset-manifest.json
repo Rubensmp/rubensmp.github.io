@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d96c0aaa.css",
-    "main.js": "/static/js/main.d7d1c256.js",
+    "main.js": "/static/js/main.ac9a8ad2.js",
     "static/media/DrogAda.png": "/static/media/DrogAda.cf51a2cb8080fbe31783.png",
     "static/media/LFS.png": "/static/media/LFS.b16744cfe548d148d098.png",
     "static/media/StarEC.png": "/static/media/StarEC.9e3e870aae334fe00649.png",
@@ -23,10 +23,10 @@
     "static/media/CV_RUBENS_MACEDO_PEREIRA.pdf": "/static/media/CV_RUBENS_MACEDO_PEREIRA.ca14d0d9e2ef422aca2b.pdf",
     "index.html": "/index.html",
     "main.d96c0aaa.css.map": "/static/css/main.d96c0aaa.css.map",
-    "main.d7d1c256.js.map": "/static/js/main.d7d1c256.js.map"
+    "main.ac9a8ad2.js.map": "/static/js/main.ac9a8ad2.js.map"
   },
   "entrypoints": [
     "static/css/main.d96c0aaa.css",
-    "static/js/main.d7d1c256.js"
+    "static/js/main.ac9a8ad2.js"
   ]
 }
