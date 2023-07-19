@@ -45,9 +45,10 @@ function Rubens() {
             recursos como notificações push, sistema de busca e classificação
             por categoria. Para a dashboard dos vendedores, trabalhamos com
             ReactJS para criar uma interface do usuário amigável e funcional. O
-            painel de controle permitia que os vendedores gerenciassem seus
-            produtos, verificassem pedidos, gerenciassem pagamentos. além disso,
-            implementamos recursos para relatórios de vendas e análise de dados.
+            painel de controle permitia que os vendedores gerenciarem seus
+            produtos, verificassem pedidos, gerenciarem pagamentos, além disso,
+            implementávamos recursos para relatórios de vendas e análise de
+            dados.
           </Text>
         </Fade>
 
@@ -75,8 +76,8 @@ function Rubens() {
             fácil de usar. Durante o desenvolvimento, usei tecnologias como
             React Native, TypeScript. O resultado foi um aplicativo de rede
             social para pets que permitia que os usuários compartilhassem fotos,
-            histórias, passeios ao lado do seus animais de estimação com outros
-            proprietários de animais.
+            histórias e passeios passeios ao lado do seus animais de estimação
+            com outros proprietários de animais.
           </Text>
         </Fade>
         <Fade right>
@@ -95,7 +96,7 @@ function Rubens() {
         <Fade left>
           <Text>
             <SubTitle>eCommerce</SubTitle>
-            Desenvolvimento de páginas para comércio digital que oferece
+            Desenvolvimento de páginas para comércio digital que oferecem
             soluções sob medida para garantir a melhor experiência do usuário.
             Utilizando tecnologias, como HTML, CSS e JavaScript, TypeScript,
             para criar sites intuitivos, responsivos e visualmente atraentes.
