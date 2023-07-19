@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,600;0,700;1,100;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
+html, body {
+  overflow-x: hidden;
+  height: 100vh;
+  scroll-behavior: smooth;
+}
+
+body { 
+  margin: 0;
+  font-family: Montserrat, 'Open Sans', 'Helvetica Neue', sans-serif; 
+  color: #FFFDD0;
+}
