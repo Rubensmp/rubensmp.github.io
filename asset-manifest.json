@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d96c0aaa.css",
+    "main.js": "/static/js/main.d7d1c256.js",
+    "static/media/DrogAda.png": "/static/media/DrogAda.cf51a2cb8080fbe31783.png",
+    "static/media/LFS.png": "/static/media/LFS.b16744cfe548d148d098.png",
+    "static/media/StarEC.png": "/static/media/StarEC.9e3e870aae334fe00649.png",
+    "static/media/blog_lfs.png": "/static/media/blog_lfs.35df27d7d8ca19236bb0.png",
+    "static/media/Image.png": "/static/media/Image.1c2746608c3ff0e30a15.png",
+    "static/media/petlog2.png": "/static/media/petlog2.acbda10ebf6f8ce553cb.png",
+    "static/media/mockup_lfs.png": "/static/media/mockup_lfs.6511b134ffea5b206636.png",
+    "static/media/Star.png": "/static/media/Star.3eb0c4f35695c7e59726.png",
+    "static/media/Vondme.png": "/static/media/Vondme.16acc488a5804c469df4.png",
+    "static/media/petlog1.png": "/static/media/petlog1.d1a8cc3eafef2eef55cb.png",
+    "static/media/vond-home.png": "/static/media/vond-home.85c620fb45d0ff8cb4a1.png",
+    "static/media/petlog4.png": "/static/media/petlog4.5e310c0df25bb9ca9894.png",
+    "static/media/Foto1.png": "/static/media/Foto1.b96efc1e97edb6227a0c.png",
+    "static/media/vond-home3.png": "/static/media/vond-home3.cd088480c1869b0b522b.png",
+    "static/media/vond-search.png": "/static/media/vond-search.0369647104437da1fa64.png",
+    "static/media/vond-home2.png": "/static/media/vond-home2.5a76a258043c786376ee.png",
+    "static/media/petlog3.png": "/static/media/petlog3.9a6fbe7ba00d3df15b3c.png",
+    "static/media/logo_petlog.png": "/static/media/logo_petlog.395d384f1675a9754615.png",
+    "static/media/CV_RUBENS_MACEDO_PEREIRA.pdf": "/static/media/CV_RUBENS_MACEDO_PEREIRA.ca14d0d9e2ef422aca2b.pdf",
+    "index.html": "/index.html",
+    "main.d96c0aaa.css.map": "/static/css/main.d96c0aaa.css.map",
+    "main.d7d1c256.js.map": "/static/js/main.d7d1c256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d96c0aaa.css",
+    "static/js/main.d7d1c256.js"
+  ]
+}
